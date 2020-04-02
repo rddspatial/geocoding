@@ -9,7 +9,7 @@ Created on Tue Feb  4 21:33:27 2020
 from geopy.geocoders import Nominatim
 import geocoder
 
-address='Mies-van-der-Rohe-Strasse 6, 80807 München'
+address='Mies-van-der-Rohe-Strasse 6, 80807 München' #replace this with the queried address. You can also batch process the entire code for more than one query.
 
 url = 'http://localhost/nominatim/'
 
